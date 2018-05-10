@@ -1,9 +1,9 @@
 #!/usr/bin/python
-print "Hello World"
+print("Hello World")
 
-name = "Alex"
+name = "Me"
 
 if name == "Alex":  
   print ("Hello,", name)
 else:  
-  print "Oh, well what is your name then?"
+  print ("Oh, well what is your name then?")
